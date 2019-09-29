@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name" translatable="false">GYM Planer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello from Home fragment</string>
+    <string name="home">Home</string>
+    <string name="PlanTable">neuer Plan</string>
+    <string name="kein_plan_vorhanden">Es ist noch kein Plan vorhanden</string>
+    <string name="label_home">Home</string>
+    <string name="label_planerstellen">Plan erstellen</string>
+    <string name="checkbox_planAlsFavorit">Diesen Plan als Favoirt markieren</string>
+    <string name="hint_PlanName">Name des neuen Planes</string>
+    <string name="txtButton_Speichern">Speichern</string>
+    <string name="label_plan_navi">Plan Navigation</string>
+    <string name="txtButton_PlanListe">Zeige Pläne</string>
+    <string name="txtButton_GraeteListe">Zeige Geräte</string>
+    <string name="label_home_plaene">Home Pläne</string>
+    <string name="label_home_geraete">Home Geräte</string>
+    <string name="hinweis_KlickenZumBearbeiten">Klicken zum Bearbeiten</string>
+    <string name="switchbox_planNavi">als Favorit</string>
+    <string name="dialog_planTitel_titel">Planname ändern</string>
+    <string name="dialog_planName_speichern">Speichern</string>
+    <string name="dialog_planName_abbrechen">Abbrechen</string>
+    <string name="txtButton_PlanLöschen">Plan Löschen</string>
+    <string name="dialog_PlanWirklichDeleten">Den Plan:\n%s \nwirklich löschen?</string>
+    <string name="dialog_Ja">Ja</string>
+    <string name="dialog_Nein">Nein</string>
+    <string name="kein_geraet_vorhanden">Es ist noch kein Trainingsgerät vorhanden</string>
+    <string name="lable_geraeterstellen">Gerät erstellen</string>
+    <string name="toast_XY_gelöscht">%s gelöscht</string>
+    <string name="NeusGeraet_Name"><u>Geräte Name</u></string>
+    <string name="NeusGeraet_Einstellungen"><u>Geräte Einstellungen</u></string>
+    <string name="NeusGeraet_SetsWiederholungen"><u>Sets / Wiederholungen</u></string>
+    <string name="NeusGeraet_Gewicht"><u>Gewicht</u></string>
+    <string name="label_geraet_bearbeiten">Gerät bearbeiten</string>
+    <string name="GeraetTable">neues Gerät</string>
+    <string name="hinweis_HaltenZumBearbeiten">Halten für Menü</string>
+    <string name="dialog_Bearbeiten">Bearbeiten</string>
+    <string name="dialog_Löschen">Löschen</string>
+    <string name="dialog_Starten">Starten</string>
+    <string name="toast_XY_wurde_gespeichert">%s wurde Gespeichert</string>
+    <string name="dialog_GerätWirklichDeleten">Das Geraet:\n%s\nwirklich löschen?</string>
+    <string name="txtButton_NeueGeraetErstellen">Neues Gerät erstellen</string>
+    <string name="txtButton_VorhandenesGeraetHinzufügen">Vorhandens Gerät hinzufügen</string>
+    <string name="hinweis_KeinGerätZugewiesen">Es wurde kein Gerät zugewiesen</string>
+    <string name="dialog_GeraetHInzufügen">Gerät Hinzufügen</string>
+</resources>
